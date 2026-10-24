@@ -48,13 +48,13 @@ portal-belajar/
 🌐 1. Akses Online (Production / Live)
 Siswa maupun penguji dapat langsung mengakses aplikasi yang sudah ter-deploy secara online tanpa perlu mengunduh atau menginstal file apa pun di perangkat.
 URL Portal Belajar: https://portalbelajarsma.vercel.app
-Dukungan PWA (Progressive Web App): Karena dijalankan lewat protokol https://, fitur PWA seperti Service Worker (sw.js)[cite: 1, 2], Offline Mode, dan opsi Install App ke layar utama ponsel/laptop dapat berfungsi 100% secara optimal[cite: 1, 2].
+Dukungan PWA (Progressive Web App): Karena dijalankan lewat protokol https://, fitur PWA seperti Service Worker (sw.js). Offline Mode, dan opsi Install App ke layar utama ponsel/laptop dapat berfungsi 100% secara optimal.
 
 💻 2. Akses Lokal (Development / Offline)
 Jika Anda ingin mengembangkan, mengedit kode, atau menguji perubahan secara langsung di komputer lokal, proyek ini bisa dijalankan secara lokal dengan langkah-langkah berikut:
 
 ⚠️ Catatan Penting
-Jangan membuka file index.html dengan cara klik ganda (double-click) langsung dari File Explorer (protokol file:///), karena browser akan memblokir pendaftaran Service Worker (sw.js)[cite: 2]. Gunakan Local Web Server agar protokol bertukar menjadi http://localhost[cite: 2].
+Jangan membuka file index.html dengan cara klik ganda (double-click) langsung dari File Explorer (protokol file:///), karena browser akan memblokir pendaftaran Service Worker (sw.js). Gunakan Local Web Server agar protokol bertukar menjadi http://localhost.
 
 Cara Jalankan di Lokal:
 Menggunakan Extension Live Server (VS Code - Direkomendasikan):
