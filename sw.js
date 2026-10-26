@@ -20,7 +20,8 @@ const ASSETS_TO_CACHE = [
     './js/planner-streak.js',
     './js/subjects.js',
     './data/subjects-data.js',
-    './data/cheatsheets.js'
+    './data/cheatsheets.js',
+    './data/quotes.js'
 ];
 
 /**
