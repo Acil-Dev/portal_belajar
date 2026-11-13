@@ -1,4 +1,4 @@
-const CACHE_NAME = 'portal-belajar-v1.0.5'; // Naikkan versi jika ada update file
+const CACHE_NAME = 'portal-belajar-v1.0.6'; // Naikkan versi jika ada update file
 
 const ASSETS_TO_CACHE = [
     './index.html',
