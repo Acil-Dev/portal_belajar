@@ -13,7 +13,7 @@ const EBOOKS_DATA = [
         title: "Modul & Rangkuman UTBK - Ruang Guru",
         category: "Bimbel Online",
         description: "Kumpulan modul belajar pilihan, ringkasan materi, dan bank soal lengkap dari Ruang Guru.",
-        link: "https://drive.google.com/drive/folders/CONTOH_LINK_DRIVE_RUANGGURU",
+        link: "hhttps://drive.google.com/drive/folders/1IzG1NWZ6CJlNbM89ucevGbrxeblh-JAK?usp=drive_link",
         badgeColor: "blue",
         icon: "📘"
     },
@@ -22,7 +22,7 @@ const EBOOKS_DATA = [
         title: "Bank Soal & Bedah Taktik - INTEN",
         category: "Bimbel Legendaris",
         description: "Dokumen soal penalaran tingkat lanjut dan strategi cepat, tepat, akurat ala INTEN.",
-        link: "https://drive.google.com/drive/folders/CONTOH_LINK_DRIVE_INTEN",
+        link: "https://drive.google.com/drive/folders/16IQYiS0OFR4Tj5jaUNx_us6u7wU9-6Nj?usp=drive_link",
         badgeColor: "orange",
         icon: "📙"
     },
@@ -31,7 +31,7 @@ const EBOOKS_DATA = [
         title: "Arsip Konsep Dasar - Zenius",
         category: "Konsep Fundamental",
         description: "Kumpulan konsep fundamental matematika, saintek, dan soshum dari arsip Zenius.",
-        link: "https://drive.google.com/drive/folders/CONTOH_LINK_DRIVE_ZENIUS",
+        link: "https://drive.google.com/drive/folders/1XMeB5S2O26ZIOsQZp_YjtfoTiPNfAs8s?usp=drive_link",
         badgeColor: "purple",
         icon: "📗"
     },
@@ -40,7 +40,7 @@ const EBOOKS_DATA = [
         title: "Modul UTBK & Skolastik - Cerebrum",
         category: "Bimbel Skolastik",
         description: "Fokus latihan Tes Potensi Skolastik (TPS) dan literasi lengkap dari Cerebrum.",
-        link: "https://drive.google.com/drive/folders/CONTOH_LINK_DRIVE_CEREBRUM",
+        link: "https://drive.google.com/drive/folders/19A6KVgyz0SDLBiEZkmDam3HeXVMlHvSS?usp=drive_link",
         badgeColor: "green",
         icon: "📕"
     },
