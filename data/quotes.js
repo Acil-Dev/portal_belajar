@@ -28,6 +28,26 @@ const QUOTES_DATA = [
         quote: "Ujian terberat bukan saat menghadapi soal yang sulit, tetapi saat melawan rasa malas dalam diri sendiri.",
         author: "Motivator SNBT"
     }
+    {
+        quote: "Belajar bukan hanya tentang menghafal, tapi tentang memahami dan menerapkan pengetahuan.",
+        author: "Motivator SNBT"
+    }
+    {
+        quote: "Belajar adalah investasi terbaik yang bisa Anda lakukan untuk masa depan Anda.",
+        author: "Someone"
+    }
+    {
+        quote: "mantan itu seperti ujian, kadang sulit tapi selalu ada pelajaran berharga di baliknya.",
+        author: "Anonim"
+    }
+    {
+        quote: "sapi itu seperti teman, kadang diam tapi selalu ada manfaatnya.",
+        author: "Acil"
+    }
+    {
+        quote: "black hole itu seperti hidup, kadang gelap tapi selalu ada misteri yang menarik.",
+        author: "Someone"
+    }
 ];
 
 // Pendaftaran Global Objek Data
