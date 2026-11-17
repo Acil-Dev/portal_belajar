@@ -17,7 +17,7 @@ const SUPPORT_DATA = {
         imageUrl: "assets/icons/qris-code.png", // Pastikan file gambar QRIS ada di path ini
         note: "Bisa discan pakai GoPay, OVO, Dana, ShopeePay, BCA, Mandiri, BRI, & semua aplikasi m-Banking/e-Wallet."
     },
-    gasEndpoint: "https://script.google.com/macros/s/AKfycbxUPuUkbIzrGtrnmwm7i0eBRzP-8SK_sj7ny48LihMK5D4KRrwsBzWSyODJ5rBZHoB0Qw/exec" // Ganti dengan URL Web App GAS kamu
+    gasEndpoint: "https://script.google.com/macros/s/AKfycbytEeb18v-6Hnm6iSee30uN6xG0mAtN__oJGD9AtGH3b6V5iz9DOx5-UWYi4NONX_cfnw/exec" // Ganti dengan URL Web App GAS kamu
 };
 
 if (typeof window !== 'undefined') {
