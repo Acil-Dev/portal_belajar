@@ -73,7 +73,7 @@ const SUBJECTS_DATA = [
         icon: '⚡',
         category: 'Saintek',
         description: 'Mekanika, kinematika, hukum Newton, listrik-magnet, dan termodinamika.',
-        driveUrl: 'https://drive.google.com/drive/folders/1XEQ-jd60aN8nk77tzGh_Bc4BLsE0m9Fv',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=fisika',
         topics: ['Kinematika Gerak Lurus', 'Hukum Newton tentang Gerak', 'Usaha & Energi', 'Rangkaian Listrik DC/AC']
     },
     {
