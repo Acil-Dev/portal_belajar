@@ -13,7 +13,7 @@ const SUBJECTS_DATA = [
         icon: '📐',
         category: 'Wajib',
         description: 'Aljabar, fungsi, eksponen, trigonometri, dan kalkulus dasar.',
-        driveUrl: 'https://drive.google.com/drive/folders/1L_jcAp1d5G46SO_Tvbi0o2XOEuv-wnac',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=matematika',
         topics: ['Eksponen & Logaritma', 'Persamaan Kuadrat', 'Trigonometri', 'Matriks', 'Turunan & Integral']
     },
     {
@@ -23,7 +23,7 @@ const SUBJECTS_DATA = [
         icon: '📊',
         category: 'Peminatan',
         description: 'Polinomial, matriks lanjut, vektor 3D, dan geometri analitika.',
-        driveUrl: 'https://drive.google.com/drive/folders/1Nkd8UYBbS9xUci7OtBctfpxk4OGEBxM_',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=matematika-lanjut',
         topics: ['Polinomial (Suku Banyak)', 'Vektor 3D', 'Transformasi Geometri', 'Limit Fungsi Trigonometri']
     },
     {
@@ -33,7 +33,7 @@ const SUBJECTS_DATA = [
         icon: '📖',
         category: 'Wajib',
         description: 'Literasi membaca, pemahaman teks argumentasi, ide pokok, dan ejaan.',
-        driveUrl: 'https://drive.google.com/drive/folders/1NYq0zcdwpHo1-9-npdF3DKipmqTIJz6O',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=bahasa-indonesia',
         topics: ['Teks Laporan Hasil Observasi', 'Ide Pokok & Kalimat Utama', 'Ejaan EYD VI', 'Paragraf Induktif/Deduktif']
     },
     {
@@ -43,7 +43,7 @@ const SUBJECTS_DATA = [
         icon: '📝',
         category: 'Peminatan',
         description: 'Apresiasi karya sastra, kritik sastra, drama, dan esai ilmiah.',
-        driveUrl: 'https://drive.google.com/drive/folders/1Zo1e8WuWWcfhfpmQjV9WeAKK5iOY7jgt',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=bahasa-indonesia-lanjut',
         topics: ['Kritik Sastra & Esai', 'Analisis Novel/Cerpen', 'Naskah Drama & Monolog']
     },
     {
@@ -53,7 +53,7 @@ const SUBJECTS_DATA = [
         icon: '🇬🇧',
         category: 'Wajib',
         description: 'Reading comprehension, grammar, main idea, and inference questions.',
-        driveUrl: 'https://drive.google.com/drive/folders/1Q52MCSGjSSnoUlvvWsROQ3qZAAChXPUF',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=bahasa-inggris',
         topics: ['Analytical Exposition', 'Passive Voice', 'Conditional Sentences', 'Main Idea & Tones']
     },
     {
@@ -63,7 +63,7 @@ const SUBJECTS_DATA = [
         icon: '🗣️',
         category: 'Peminatan',
         description: 'Advanced reading, argument writing, debate expressions, and TOEFL prep.',
-        driveUrl: 'https://drive.google.com/drive/folders/1_F6rQysNTUcgWpmn_PQnwefO4he23FZi',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=bahasa-inggris-lanjut',
         topics: ['Hortatory Exposition', 'Discussion Text', 'Advanced Modals & Inversion']
     },
     {
@@ -83,7 +83,7 @@ const SUBJECTS_DATA = [
         icon: '🧪',
         category: 'Saintek',
         description: 'Struktur atom, ikatan kimia, stoikiometri, asam-basa, dan reaksi redoks.',
-        driveUrl: 'https://drive.google.com/drive/folders/1xhEzEonyM3IbdpmKZNkJH9gpxTlp2_x9',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=kimia',
         topics: ['Stoikiometri & Mol', 'Tabel Periodik Unsur', 'Termokimia', 'Laju Reaksi & Kesetimbangan']
     },
     {
