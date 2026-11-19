@@ -93,7 +93,7 @@ const SUBJECTS_DATA = [
         icon: '🧬',
         category: 'Saintek',
         description: 'Sel, metabolisme, genetika DNA/RNA, evolusi, dan ekosistem.',
-        driveUrl: 'https://drive.google.com/drive/folders/1yxhrg5LjQxuqe97rr_DDHfVXcyKatCJK',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=biologi',
         topics: ['Struktur Sel & Organel', 'Metabolisme (Anabolisme/Katabolisme)', 'Substansi Genetik & Hereditas', 'Evolusi']
     },
     {
@@ -103,7 +103,7 @@ const SUBJECTS_DATA = [
         icon: '💰',
         category: 'Soshum',
         description: 'Kelangkaan, permintaan-penawaran, akuntansi dasar, pasar, dan kebijakan fiskal.',
-        driveUrl: 'https://drive.google.com/drive/folders/1r1Xh5ELdvvqDlfjJJ3zLCGvQ1a3ORsrA',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=ekonomi',
         topics: ['Mekanisme Pasar (Hukum Demand/Supply)', 'Jurnal Umum Akuntansi', 'Pendapatan Nasional & Inflasi']
     },
     {
@@ -113,7 +113,7 @@ const SUBJECTS_DATA = [
         icon: '🌍',
         category: 'Soshum',
         description: 'Peta, litosfer, atmosfer, sistem informasi geografis (SIG), dan dinamika penduduk.',
-        driveUrl: 'https://drive.google.com/drive/folders/1PuXxV1q_jCSnAIPv7IYsZ9UcY-U6Uknz',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=geografi',
         topics: ['Prinsip & Pendekatan Geografi', 'Penginderaan Jauh & SIG', 'Dinamika Planet Bumi & Litosfer']
     },
     {
@@ -123,7 +123,7 @@ const SUBJECTS_DATA = [
         icon: '👥',
         category: 'Soshum',
         description: 'Interaksi sosial, konflik, diferensiasi sosial, dan penelitian sosial.',
-        driveUrl: 'https://drive.google.com/drive/folders/15cAGyiC8b56ijonRJLRvcOuPeRUmVCD6',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=sosiologi',
         topics: ['Interaksi & Sosialisasi', 'Konflik & Integrasi Sosial', 'Metode Penelitian Sosial']
     },
     {
@@ -133,7 +133,7 @@ const SUBJECTS_DATA = [
         icon: '🏛️',
         category: 'Soshum',
         description: 'Sejarah Indonesia, peradaban kuno, proklamasi, perang dunia, dan perang dingin.',
-        driveUrl: 'https://drive.google.com/drive/folders/14DSJiQARr6rT0aMOah4D7EITYJhOifIq',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=sejarah',
         topics: ['Kerajaan Hindu-Buddha & Islam', 'Masa Pergerakan Nasional', 'Proklamasi & Kemerdekaan RI', 'Perang Dingin']
     },
     {
@@ -143,7 +143,7 @@ const SUBJECTS_DATA = [
         icon: '🇮🇩',
         category: 'Wajib',
         description: 'Nilai-nilai Pancasila, UUD 1945, hak asasi manusia, dan wawasan kebangsaan.',
-        driveUrl: 'https://drive.google.com/drive/folders/1qVbxGrW4-YcrFSeRC04dexrb2WQa53F_',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=ppkn',
         topics: ['Nilai Pancasila dalam Praktik', 'Konstitusi & UUD 1945', 'Demokrasi & Hak Asasi Manusia']
     },
     {
@@ -153,7 +153,7 @@ const SUBJECTS_DATA = [
         icon: '💻',
         category: 'Peminatan',
         description: 'Berpikir komputasional, algoritma dasar, analisis data, dan jaringan komputer.',
-        driveUrl: 'https://drive.google.com/drive/folders/1jfZiFf1--VGM27_SNbn3o5nzrgbYdfcZ',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev/?id=informatika',
         topics: ['Computational Thinking', 'Algoritma & Pemrograman', 'Analisis Data & Spreadsheet']
     },
     {
@@ -163,7 +163,7 @@ const SUBJECTS_DATA = [
         icon: '📜',
         category: 'Peminatan',
         description: 'Historiografi, sejarah dunia modern, revolusi besar dunia, dan politik global.',
-        driveUrl: 'https://drive.google.com/drive/folders/1iCiEWYu9muyIbrPEdcYw8btOdfTwUHDK',
+        driveUrl: 'https://portal-drive.rabbaniagil2009.workers.dev?id=sejarah-tingkat-lanjut',
         topics: ['Historiografi & Metodologi', 'Revolusi Amerika, Prancis, & Rusia', 'Perang Dunia I & II']
     }
 ];
